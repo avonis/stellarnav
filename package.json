@@ -1,0 +1,12 @@
+{
+	"name": "stellarnav",
+	"version": "0.0.2",
+	"description": "fork of vinnymoreira/stellarnav ",
+	"license": "MIT",
+	"repository": "avonis/stellarnav",
+	"author": {
+		"name": "Sindre Sorhus",
+		"email": "sindresorhus@gmail.com",
+		"url": "sindresorhus.com"
+	}
+}
